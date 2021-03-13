@@ -7,6 +7,7 @@ class Fitness:
     MAX_VALUE = 255
 
     curDir = os.getcwd()
+    #add your own image
     fileName = "rep.jpg"
     fn = curDir + "\\function\\" + fileName
 
